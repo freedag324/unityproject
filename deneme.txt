@@ -1,1 +1,1 @@
-print ("Değişiklik");
+print("Merhaba Dünya);
